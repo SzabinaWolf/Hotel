@@ -1,0 +1,333 @@
+{
+  "foglalasok": [
+    {
+      "id": 7,
+      "erkezes": "2022-01-10",
+      "tavozas": "2022-01-13",
+      "vendeg_neve": "Kiss Andrea",
+      "szoba_szama": 106
+    },
+    {
+      "id": 9,
+      "erkezes": "2022-01-17",
+      "tavozas": "2022-01-19",
+      "vendeg_neve": "Molnár Zsuzsa",
+      "szoba_szama": 11
+    },
+    {
+      "id": 10,
+      "erkezes": "2022-01-19",
+      "tavozas": "2022-01-20",
+      "vendeg_neve": "Fekete Béla",
+      "szoba_szama": 109
+    },
+    {
+      "id": 17,
+      "erkezes": "2022-02-20",
+      "tavozas": "2022-02-24",
+      "vendeg_neve": "Nagy Balázs",
+      "szoba_szama": 206
+    },
+    {
+      "id": 18,
+      "erkezes": "2022-02-24",
+      "tavozas": "2022-02-27",
+      "vendeg_neve": "Kiss Zoltán",
+      "szoba_szama": 207
+    },
+    {
+      "id": 19,
+      "erkezes": "2022-02-25",
+      "tavozas": "2022-02-26",
+      "vendeg_neve": "Balogh Péter",
+      "szoba_szama": 208
+    },
+    {
+      "id": 20,
+      "erkezes": "2022-02-27",
+      "tavozas": "2022-02-28",
+      "vendeg_neve": "Takács Dávid",
+      "szoba_szama": 209
+    },
+    {
+      "id": 21,
+      "erkezes": "2022-03-02",
+      "tavozas": "2022-03-05",
+      "vendeg_neve": "Németh Ágnes",
+      "szoba_szama": 300
+    },
+    {
+      "id": 22,
+      "erkezes": "2022-03-04",
+      "tavozas": "2022-03-06",
+      "vendeg_neve": "Körmendi István",
+      "szoba_szama": 301
+    },
+    {
+      "id": 23,
+      "erkezes": "2022-03-07",
+      "tavozas": "2022-03-09",
+      "vendeg_neve": "Sallai Gergő",
+      "szoba_szama": 302
+    },
+    {
+      "id": 24,
+      "erkezes": "2022-03-10",
+      "tavozas": "2022-03-13",
+      "vendeg_neve": "Tóth Gábor",
+      "szoba_szama": 303
+    },
+    {
+      "id": 25,
+      "erkezes": "2022-03-11",
+      "tavozas": "2022-03-15",
+      "vendeg_neve": "Vass Csaba",
+      "szoba_szama": 304
+    },
+    {
+      "id": 26,
+      "erkezes": "2022-03-15",
+      "tavozas": "2022-03-19",
+      "vendeg_neve": "Kerekes Anna",
+      "szoba_szama": 258
+    },
+    {
+      "id": 27,
+      "erkezes": "2022-03-16",
+      "tavozas": "2022-03-18",
+      "vendeg_neve": "Pintér Dávid",
+      "szoba_szama": 306
+    },
+    {
+      "id": 28,
+      "erkezes": "2022-03-19",
+      "tavozas": "2022-03-21",
+      "vendeg_neve": "Simon Petra",
+      "szoba_szama": 307
+    },
+    {
+      "id": 29,
+      "erkezes": "2022-03-22",
+      "tavozas": "2022-03-24",
+      "vendeg_neve": "Kovács Péter",
+      "szoba_szama": 308
+    },
+    {
+      "id": 30,
+      "erkezes": "2022-03-25",
+      "tavozas": "2022-03-28",
+      "vendeg_neve": "Tóth Ádám",
+      "szoba_szama": 309
+    },
+    {
+      "id": 31,
+      "erkezes": "2023-03-26",
+      "tavozas": "2023-03-29",
+      "vendeg_neve": "Sipos Gábor",
+      "szoba_szama": 310
+    },
+    {
+      "id": 32,
+      "erkezes": "2022-03-30",
+      "tavozas": "2022-04-01",
+      "vendeg_neve": "Pál Ferenc",
+      "szoba_szama": 311
+    },
+    {
+      "id": 33,
+      "erkezes": "2022-04-02",
+      "tavozas": "2022-04-05",
+      "vendeg_neve": "Varga Krisztián",
+      "szoba_szama": 312
+    },
+    {
+      "id": 34,
+      "erkezes": "2022-04-03",
+      "tavozas": "2022-04-04",
+      "vendeg_neve": "Kiss Ágnes",
+      "szoba_szama": 313
+    },
+    {
+      "id": 35,
+      "erkezes": "2022-04-05",
+      "tavozas": "2022-04-07",
+      "vendeg_neve": "Balogh László",
+      "szoba_szama": 314
+    },
+    {
+      "id": 36,
+      "erkezes": "2021-04-06",
+      "tavozas": "2021-04-08",
+      "vendeg_neve": "Nagy Katalin",
+      "szoba_szama": 315
+    },
+    {
+      "id": 37,
+      "erkezes": "2022-04-08",
+      "tavozas": "2022-04-09",
+      "vendeg_neve": "Molnár Gergely",
+      "szoba_szama": 316
+    },
+    {
+      "id": 38,
+      "erkezes": "2022-04-09",
+      "tavozas": "2022-04-12",
+      "vendeg_neve": "Fekete Dániel",
+      "szoba_szama": 317
+    },
+    {
+      "id": 39,
+      "erkezes": "2022-04-10",
+      "tavozas": "2022-04-13",
+      "vendeg_neve": "Horváth Zsolt",
+      "szoba_szama": 318
+    },
+    {
+      "id": 40,
+      "erkezes": "2023-04-15",
+      "tavozas": "2023-04-16",
+      "vendeg_neve": "Mészárosné Kovács Judit",
+      "szoba_szama": 319
+    },
+    {
+      "id": 41,
+      "erkezes": "2022-04-16",
+      "tavozas": "2022-04-18",
+      "vendeg_neve": "Kovács István",
+      "szoba_szama": 320
+    },
+    {
+      "id": 42,
+      "erkezes": "2022-04-19",
+      "tavozas": "2022-04-23",
+      "vendeg_neve": "Sipos Péter",
+      "szoba_szama": 321
+    },
+    {
+      "id": 43,
+      "erkezes": "2022-04-20",
+      "tavozas": "2022-04-23",
+      "vendeg_neve": "Mészáros Tamás",
+      "szoba_szama": 322
+    },
+    {
+      "id": 44,
+      "erkezes": "2022-04-25",
+      "tavozas": "2022-04-28",
+      "vendeg_neve": "Balogh Péter",
+      "szoba_szama": 323
+    },
+    {
+      "id": 45,
+      "erkezes": "2022-04-28",
+      "tavozas": "2022-04-29",
+      "vendeg_neve": "Nagy Zsófia",
+      "szoba_szama": 324
+    },
+    {
+      "id": 46,
+      "erkezes": "2022-04-29",
+      "tavozas": "2022-04-30",
+      "vendeg_neve": "Kiss Tamás",
+      "szoba_szama": 325
+    },
+    {
+      "id": 47,
+      "erkezes": "2022-05-02",
+      "tavozas": "2022-05-04",
+      "vendeg_neve": "Tóth Balázs",
+      "szoba_szama": 400
+    },
+    {
+      "id": 48,
+      "erkezes": "2022-05-06",
+      "tavozas": "2022-05-09",
+      "vendeg_neve": "Kovács Gergő",
+      "szoba_szama": 401
+    },
+    {
+      "id": 49,
+      "erkezes": "2021-05-07",
+      "tavozas": "2021-05-10",
+      "vendeg_neve": "Nagy Andrea",
+      "szoba_szama": 402
+    },
+    {
+      "id": 50,
+      "erkezes": "2022-05-10",
+      "tavozas": "2022-05-13",
+      "vendeg_neve": "Balogh Dóra",
+      "szoba_szama": 403
+    },
+    {
+      "id": 51,
+      "erkezes": "2022-05-15",
+      "tavozas": "2022-05-18",
+      "vendeg_neve": "Varga József",
+      "szoba_szama": 404
+    },
+    {
+      "id": 52,
+      "erkezes": "2022-05-19",
+      "tavozas": "2022-05-22",
+      "vendeg_neve": "Tóth Máté",
+      "szoba_szama": 405
+    },
+    {
+      "id": 53,
+      "erkezes": "2022-05-20",
+      "tavozas": "2022-05-23",
+      "vendeg_neve": "Kis János",
+      "szoba_szama": 406
+    },
+    {
+      "erkezes": "2023-10-09",
+      "tavozas": "2023-10-12",
+      "vendeg_neve": "Pataki Bertalan",
+      "szoba_szama": 123,
+      "id": 54
+    },
+    {
+      "id": 55,
+      "erkezes": "2023-10-09",
+      "tavozas": "2023-10-10",
+      "vendeg_neve": "Piros Alma",
+      "szoba_szama": 101
+    },
+    {
+      "id": 56,
+      "erkezes": "2022-03-15",
+      "tavozas": "2022-03-19",
+      "vendeg_neve": "Kerekes Anna",
+      "szoba_szama": 258
+    },
+    {
+      "id": 57,
+      "erkezes": "2022-02-13",
+      "tavozas": "2022-02-16",
+      "vendeg_neve": "Fidekas Gábor",
+      "szoba_szama": 204
+    },
+    {
+      "id": 60,
+      "erkezes": "2022-02-05",
+      "tavozas": "2022-02-09",
+      "vendeg_neve": "Kránitz János",
+      "szoba_szama": 252
+    },
+    {
+      "id": 61,
+      "erkezes": "2022-01-19",
+      "tavozas": "2022-01-20",
+      "vendeg_neve": "Fekete Béla",
+      "szoba_szama": 109
+    },
+    {
+      "id": 62,
+      "erkezes": "2023-10-29",
+      "tavozas": "2023-11-01",
+      "vendeg_neve": "Kicsi Virág",
+      "szoba_szama": 235
+    }
+  ]
+}

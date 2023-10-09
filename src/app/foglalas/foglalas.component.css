@@ -1,0 +1,26 @@
+.btn-success{
+    background-color: aqua;
+    border: none;
+    margin-top: 20px;
+}
+
+.modal-title{
+    font-size: 30px;
+    color:blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+form{
+    margin: 20px;
+    padding: 10px;
+}
+.form-control{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+label{
+    margin: 10px;
+    font-size: 20px;
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
